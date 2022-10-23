@@ -1,0 +1,23 @@
+//package week_04;
+//
+//import java.awt.*;
+//import java.awt.event.*;
+//
+//import javax.swing.*;
+//
+//public class MyPanel extends JPanel implements ActionListener {
+//	boolean flag = false;
+//	private int light_number = 0;
+//	
+//	public MyPanel() {
+//		setLayout(new BorderLayout());
+//		
+//	}
+//	
+//	@Override
+//	public void actionPerformed(ActionEvent e) {
+//		// TODO Auto-generated method stub
+//		
+//	}
+//
+//}
